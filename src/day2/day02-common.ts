@@ -1,7 +1,7 @@
 import { readText } from "../utils/read-input";
 
 export function readInput(): number[][]{
-    return readText("day2.txt")
+    return readText("day02.txt")
         .split(",")
         .map(s =>
             s.split("-")
