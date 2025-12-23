@@ -1,6 +1,7 @@
 # Advent of Code 2025
 
-This repository contains my solutions for AOC-2025 problems.
+This repository contains my solutions for [AOC-2025](https://adventofcode.com/2025)
+ problems.
 
 ## Tested on
 ```
